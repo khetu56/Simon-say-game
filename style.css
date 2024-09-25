@@ -11,13 +11,6 @@ body{
     border:5px solid black;
     margin:1rem;
 }
-h2{
-    margin-left: 520px;
-    width:30%;
-    box-shadow:5px 5px 10px rgb(83, 87, 107);
-    border-radius: 20px;
-}
-
 .btn-con{
     display:flex;
     justify-content: center;
