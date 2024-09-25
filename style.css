@@ -1,5 +1,7 @@
 body{
     text-align: center;
+    background: linear-gradient(#796b5d, #2f6a83);
+    height: 100vh;
 }
 
 .btn{
@@ -8,8 +10,14 @@ body{
     border-radius:20%;
     border:5px solid black;
     margin:1rem;
-
 }
+h2{
+    margin-left: 520px;
+    width:30%;
+    box-shadow:5px 5px 10px rgb(83, 87, 107);
+    border-radius: 20px;
+}
+
 .btn-con{
     display:flex;
     justify-content: center;
@@ -21,10 +29,10 @@ body{
     background-color:rgb(202, 142, 31);
 }
 .green{
-    background-color:rgb(63, 179, 194);
+    background-color:rgb(69, 182, 116);
 }
 .blue{
-    background-color:rgb(170, 161, 221);
+    background-color:rgb(95, 72, 223);
 }
 
 .flash{
